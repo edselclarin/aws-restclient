@@ -3,7 +3,7 @@
     "deployments": {
         "aspNetCoreWeb": [
         {
-            "name": "test-rest-restclient",
+            "name": "test-restclient",
             "parameters": {
                 "appBundle": "site.zip",
                 "iisPath": "/",
